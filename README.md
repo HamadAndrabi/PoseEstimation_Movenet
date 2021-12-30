@@ -1,5 +1,5 @@
 # PoseEstimation_Movenet
-Human posture detection using Movenet
+Human posture detection using Movenet Thunder Model
 
 Output:
 
